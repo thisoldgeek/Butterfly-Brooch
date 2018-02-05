@@ -20,7 +20,8 @@ hackster.io butterfly brooch
 ## *Fabrication:*
 * 3D print files in STL_files folder
 * 3D printed case required
-* See docs folder for 3D print settings
+* See STL_and_Cura folder for 3D print settings
+* Laser Cut (or make from heavy paper) LED Diffuser - image in diffuser folder
 
 ## *Configuration:*
 * Load sketch to Trinket via Arduino IDE 
