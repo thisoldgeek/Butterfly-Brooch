@@ -1,5 +1,5 @@
 # **NeoPixel Butterfly Brooch**
-![butterfly brooch](https://github.com/thisoldgeek/Butterfly-Brooch/blob/master/butterfly_brooch_cover_photo.JPG "NeoPixel Butterfly Brooch")
+![butterfly brooch](https://github.com/thisoldgeek/Butterfly-Brooch/blob/master/butterfly_brooch_cover_photo.JPG "NeoPixels Butterfly Brooch")
  
 
 ## *Description:*
